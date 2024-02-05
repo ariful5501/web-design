@@ -90,7 +90,6 @@
 span .bodyline2 a{
     font-size: 14px;
     font-weight: 600;
-    text-transform: uppercase;
     border: 2px solid #EEEEEE;
     padding-top: 15px;
     padding-bottom: 13px;
@@ -138,7 +137,6 @@ span .bodyline2 a{
     width: 95%;
     font-size: 24px;
     font-weight: 700;
-    text-transform: uppercase;
     position: relative;
     border-bottom: 2px solid #FC443C;
     color: #FC443C;
@@ -187,7 +185,6 @@ li::before {
     width: 90%;
     font-size: 24px;
     font-weight: 700;
-    text-transform: uppercase;
     position: relative;
     border-bottom: 2px solid #FC443C;
     color: #FC443C;
@@ -285,19 +282,4 @@ li a:hover{
 .right-btn:hover{
     border-bottom: 1px solid white;
 }
-/* #scrollUp {
-    background: #4b0f02;
-    height: 50px;
-    width: 50px;
-    position:absolute;
-    right: 60px;
-    bottom: 60px;
-    text-align: center;
-    color: #fff;
-    font-size: 18px;
-    line-height: 47px;
-}
-#scrollUp:hover{
-    background-color: #FC443C;
-    color:#EEEEEE;
-} */
+
